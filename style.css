@@ -805,3 +805,16 @@ a:hover {
 .site-footer-credits {
     color: #819198
 }
+
+.text-row1 {
+    line-height: 2.3; /* 调整行高，可以根据需要进行调整 */
+    font-size: 22px; /* 设置字体大小，可以根据需要进行调整 */
+    color: black; /* 设置字体颜色为浅灰色 */
+    font-weight: bold; /* 设置加粗效果 */
+}
+
+.text-row2 {
+    line-height: 2; /* 调整行高，可以根据需要进行调整 */
+    font-size: 18px; /* 设置字体大小，可以根据需要进行调整 */
+    color: gray; /* 设置字体颜色为浅灰色 */
+}
